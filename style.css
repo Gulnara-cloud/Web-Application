@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif;
+}
+
+.hero-section {
+  height: 100vh;
+  background-image: url('images/perfume.jpg'); /* замени на свой файл */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: white;
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.6);
+}
+
+.hero-text {
+  max-width: 600px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+}
+
+.hero-text h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em;
+}
+
+.hero-text ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  text-align: left;
+}
+
+/* Кнопка */
+.shop-button {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 12px 30px;
+  background-color: #ffffff;
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 30px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.shop-button:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
