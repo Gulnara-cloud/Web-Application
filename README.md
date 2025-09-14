@@ -10,5 +10,5 @@ It includes basic HTML and CSS to build a simple webpage.
 - `.idea/` – IDE settings
 
 ## How to Run
-   https://github.com/Gulnara-cloud/Web-Application
+ git clone https://github.com/Gulnara-cloud/Web-Application.git
    
