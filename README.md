@@ -12,4 +12,5 @@ It includes basic HTML and CSS to build a simple webpage.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Gulnara-cloud/Web-Application.git
+   git clone https://github.com/Gulnara-cloud/Web-Application
+   
